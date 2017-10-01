@@ -1,5 +1,25 @@
 Contents from ``contents.rst``.
 
+.. toctree::
+   :maxdepth: 2
+   :caption: TOC tree
+
+   index
+   main
+   ReadMe
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Tree 1
+
+   tree1/index
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Tree 2
+
+   tree2/index
+
 HRef testing
 ------------
 - `../ReadMe <../ReadMe>`_
