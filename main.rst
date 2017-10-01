@@ -27,5 +27,6 @@ This is what the build looks like
 
 Examples
 --------
+- `ReadMe <ReadMe>`_
 - `ReadMe <./ReadMe>`_
 - `ReadMe.rst <./ReadMe.rst>`_
