@@ -1,3 +1,7 @@
+restructuredtext markup examples
+================================
+:version: 0.0.0-dev
+:created: 2017-10-01
 
 .. meta::
    :description: The reStructuredText plaintext markup language
