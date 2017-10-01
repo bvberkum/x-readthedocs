@@ -4,14 +4,14 @@ RTD Config
 - Set to 'Sphinx HTML dir', not sure if YAML can set this.
 
 .. include:: .readthedocs.yml
-   :code: yaml
+   :code: yml
 
 - `readthedocs <readthedocs.py>`_
 
 Builder Config
 --------------
-.. .. include:: conf.py
-..    :code: python
+.. include:: conf.py
+   :code: python
 
 
 - `conf <conf.py>`_
@@ -20,13 +20,22 @@ Build process
 -------------
 This is what the build looks like
 
-.. .. include:: rtd-build-example.sh
-..    :code: sh
+.. include:: rtd-build-example.sh
+   :code: sh
 
 - `rtd-build-example <rtd-build-example.py>`_
 
-Examples
---------
+HRef testing
+------------
+
+- `contents <contents>`_
+- `contents <./contents>`_
+- `contents.rst <./contents.rst>`_
+
+- `index <index>`_
+- `index <./index>`_
+- `index.rst <./index.rst>`_
+
 - `ReadMe <ReadMe>`_
 - `ReadMe <./ReadMe>`_
 - `ReadMe.rst <./ReadMe.rst>`_
