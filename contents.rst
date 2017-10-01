@@ -12,7 +12,6 @@ Contents from ``contents.rst``.
    :maxdepth: 2
    :caption: TOC tree
 
-   index
    main
    ReadMe
 
