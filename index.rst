@@ -1,10 +1,11 @@
 Welcome
 =======
-Contents from ``contents.rst``.
 
 * :ref:`main-index`
-* :ref:`test-1-index`
-* :ref:`test-2-index`
+* :ref:`search`
+
+- :ref:`test-1-index`
+- :ref:`test-2-index`
 
 .. _main-index:
 
@@ -14,6 +15,9 @@ Contents from ``contents.rst``.
 
    main
    ReadMe
+
+* :ref:`genindex`
+* :ref:`modindex`
 
 .. _test-1-index:
 
