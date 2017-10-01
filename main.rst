@@ -12,8 +12,11 @@ Builder Config
 .. include:: conf.py
    :code: python
 
-
 - `conf <conf.py>`_
+
+The real builder is added during build, generated from this__ template.
+
+.. __: https://github.com/rtfd/readthedocs.org/blob/master/readthedocs/doc_builder/templates/doc_builder/conf.py.tmpl
 
 Build process
 -------------
