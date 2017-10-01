@@ -1,3 +1,7 @@
+
+Testing readthedocs:
+<http://x-readthedocs.readthedocs.io/en/latest/main/>
+
 RTD Config
 ----------
 - Set to 'Sphinx HTML dir', not sure if YAML can set this.

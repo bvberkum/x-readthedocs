@@ -3,16 +3,12 @@ restructuredtext markup examples
 :version: 0.0.0-dev
 :created: 2017-10-01
 
-
 Testing readthedocs:
 <http://x-readthedocs.readthedocs.io/en/latest/main/>
-
-
 
 .. meta::
    :description: The reStructuredText plaintext markup language
    :keywords: plaintext, markup language
-
 
 .. contents::
 
