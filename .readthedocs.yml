@@ -1,4 +1,4 @@
 # Don't build any extra formats
-#formats:
-#    - none
+formats:
+    - none
 requirements_file: requirements-readthedocs.txt
