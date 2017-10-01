@@ -5,14 +5,6 @@ RTD Config
 .. include:: ./.readthedocs.yml
    :code: yaml
 
-- Seems the config include does not work.
-  Here it is inline::
-
-    # Don't build any extra formats
-    formats:
-        - none
-    requirements_file: requirements-readthedocs.txt
-
 - `readthedocs <readthedocs.py>`_
 
 Builder Config
