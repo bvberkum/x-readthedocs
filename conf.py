@@ -7,8 +7,8 @@ source_parsers = {
   '.md': CommonMarkParser,
 }
 
-print globals().keys()
 """
+# print globals().keys()
 ['source_parsers', 'tags', '__builtins__', 'CommonMarkParser', '__file__', '__doc__']
 
 """
