@@ -28,14 +28,18 @@ This is what the build looks like
 HRef testing
 ------------
 
-- `contents <contents>`_
-- `contents <./contents>`_
-- `contents.rst <./contents.rst>`_
-
+- `../index <../index>`_
 - `index <index>`_
-- `index <./index>`_
+- `./index <./index>`_
 - `index.rst <./index.rst>`_
 
+* `../contents <../contents>`_
+* `contents <contents>`_
+* `./contents <./contents>`_
+* `contents.rst <./contents.rst>`_
+
+- `../ReadMe <../ReadMe>`_
 - `ReadMe <ReadMe>`_
-- `ReadMe <./ReadMe>`_
+- `./ReadMe <./ReadMe>`_
 - `ReadMe.rst <./ReadMe.rst>`_
+
