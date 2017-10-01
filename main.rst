@@ -6,7 +6,7 @@ RTD Config
 .. .. include:: .readthedocs.yml
 ..    :code: yaml
 
-- `readthedocs <readthedocs.py>`_
+.. - `readthedocs <readthedocs.py>`_
 
 Builder Config
 --------------
@@ -14,7 +14,7 @@ Builder Config
 ..    :code: python
 
 
-- `conf <conf.py>`_
+.. - `conf <conf.py>`_
 
 Build process
 -------------
