@@ -1,5 +1,7 @@
 Contents from ``contents.rst``.
 
+.. _main-index:
+
 .. toctree::
    :maxdepth: 2
    :caption: TOC tree
@@ -8,11 +10,15 @@ Contents from ``contents.rst``.
    main
    ReadMe
 
+.. _test-1-index:
+
 .. toctree::
    :maxdepth: 2
    :caption: Tree 1
 
    tree1/index
+
+.. _test-2-index:
 
 .. toctree::
    :maxdepth: 2
