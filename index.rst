@@ -2,7 +2,6 @@ Index from ``index.rst``.
 
 HRef testing
 ------------
-
 - `../main <../main>`_
 - `main <main>`_
 - `./main <./main>`_
@@ -17,4 +16,3 @@ HRef testing
 - `ReadMe <ReadMe>`_
 - `./ReadMe <./ReadMe>`_
 - `ReadMe.rst <./ReadMe.rst>`_
-

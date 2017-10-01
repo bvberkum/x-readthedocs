@@ -1,10 +1,9 @@
-
 RTD Config
 ----------
 - Set to 'Sphinx HTML dir', not sure if YAML can set this.
 
 .. include:: .readthedocs.yml
-   :code: yml
+   :code: yaml
 
 - `readthedocs <readthedocs.py>`_
 
@@ -27,7 +26,6 @@ This is what the build looks like
 
 HRef testing
 ------------
-
 - `../index <../index>`_
 - `index <index>`_
 - `./index <./index>`_
@@ -42,4 +40,3 @@ HRef testing
 - `ReadMe <ReadMe>`_
 - `./ReadMe <./ReadMe>`_
 - `ReadMe.rst <./ReadMe.rst>`_
-
