@@ -1,4 +1,10 @@
+Welcome
+=======
 Contents from ``contents.rst``.
+
+* :ref:`main-index`
+* :ref:`test-1-index`
+* :ref:`test-2-index`
 
 .. _main-index:
 
