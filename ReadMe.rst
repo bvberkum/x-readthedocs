@@ -3,8 +3,8 @@ restructuredtext markup examples
 :version: 0.0.0-dev
 :created: 2017-10-01
 
-Testing readthedocs:
-<http://x-readthedocs.readthedocs.io/en/latest/main/>
+- Testing readthedocs: <http://x-readthedocs.readthedocs.io/en/latest/main/>
+- ReadTheDocs Sphinx template: <https://github.com/readthedocs/template>
 
 .. meta::
    :description: The reStructuredText plaintext markup language
