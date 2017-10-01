@@ -7,5 +7,5 @@ source_parsers = {
   '.md': CommonMarkParser,
 }
 
-print globals()
+print dir(globals())
 source_suffix = ['.rst', '.md']
