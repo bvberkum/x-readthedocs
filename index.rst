@@ -1,6 +1,10 @@
 Welcome
 =======
 
+- Testing readthedocs: <http://x-readthedocs.readthedocs.io/en/latest/main/>
+- ReadTheDocs Sphinx template: <https://github.com/readthedocs/template>
+
+
 * :ref:`main-index`
 * :ref:`search`
 
@@ -37,6 +41,19 @@ Welcome
 
 HRef testing
 ------------
+
+- ``sphinx.ext.intersphinx`` – Link to other projects’ documentation
+  <http://www.sphinx-doc.org/en/stable/ext/intersphinx.html>
+
+- How to properly write cross-references to external documentation with
+  intersphinx?
+  <https://stackoverflow.com/questions/30939867/how-to-properly-write-cross-references-to-external-documentation-with-intersphin>
+
+* :ref:`python tutorials <python:tutorial>`
+* :ref:`python comparison manual <python:comparisons>`
+
+* :ref:`main-index`
+
 - `../ReadMe <../ReadMe>`_
 - `ReadMe <ReadMe>`_
 - `./ReadMe <./ReadMe>`_
